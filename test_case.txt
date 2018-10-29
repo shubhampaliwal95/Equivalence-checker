@@ -1,0 +1,37 @@
+typedef int abc;
+typedef float ftr;
+typedef struct star asd;
+struct star
+{
+	struct ok a[20][30];
+	int afgf[23];
+	abc de[342][43];
+	int dfl;
+};
+struct ok
+{
+	struct star s[20][30];
+	int sdfwqd[23];
+	abc wew[342][43];
+	int qwqq;
+};	
+abc x,y;
+int a,b;
+int sdf[67][3][232][434];
+abc wewr[67][3][232][434];
+struct star s,t,hgtfc,tf[7877][876][8765];
+struct ok qd[3535][44];
+struct ok fgfg;
+asd g;
+asd hk;
+int printer(int a[24][45],float b[23],int c,float d);
+abc reader(int g,abc x);
+int fgrg(struct star g,float x,struct skn s);
+struct star fgrg(struct star g,float x,struct skn s);
+struct ok read(half gh,struct star x[][][],struct stv d[][],int a[],abc sd[][],float f);
+half yu;
+ftr hbsd[123][124][124];
+float kj[123][124][124];
+abc hnds[123][123][124];
+int hello[12][13][14][15];
+abc printer2(int af[24][45],float bdf[23],int cd,ftr ddf);
