@@ -1,4 +1,4 @@
-# Type-checker
+# Equivalence-checker
 This program takes the set of statements of cg language and tells what all type of equivalences exist among the variables.
 ******COMPILE AND RUN******
 1)To compile code use "gcc -o assignment assignment.c"
